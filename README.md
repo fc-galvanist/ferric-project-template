@@ -1,4 +1,4 @@
-# {ferric-project-template}
+# {{project_name}}
 {A project template for Ferric Collective project}
 
 # Licensing
