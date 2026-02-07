@@ -1,4 +1,4 @@
-# {{PROJECT_NAME}} Documentation
+# {{PROJECT_NAME}} - Documentation
 SPDX-License-Identifier: CC-BY-SA-4.0
 
 This folder contains the documentation for the {{PROJECT_NAME}} hardware and software.
