@@ -1,9 +1,11 @@
-# {{project_name}} - Firmware/Software
+# {{PROJECT_NAME}} - Firmware/Software
 SPDX-License-Identifier: GPL-3.0-or-later
 
-This folder contains the source code for {{project_name}}.
+This folder contains the source code for {{PROJECT_NAME}}.
+All software in this project is released under the GPL v3 license see LICENSE for full text.
 
-**Source Location:** {{source_repo}}
+
+**Source Location:** {{PROJECT_REPO}}
 
 ## License
 Copyright (C) 2026 Ferric Collective <galvanist@ferric-collective.org>
