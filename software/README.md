@@ -1,7 +1,7 @@
-# Ferric Twelve - Firmware/Software
+# {ferric template project} - Firmware/Software
 SPDX-License-Identifier: GPL-3.0-or-later
 
-This folder contains the source code for the Ferric Twelve project.
+This folder contains the source code for {Ferric Collective Project}.
 
 ## License
 Copyright (C) 2026 Ferric Collective <galvanist@ferric-collective.org>
