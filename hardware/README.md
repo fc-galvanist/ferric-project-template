@@ -1,3 +1,7 @@
+# Hardware Source
+SPDX-License-Identifier: CERN-OHL-S-2.0
+Copyright (c) 2026 Ferric Collective <galvanist@ferric-collective.org>
+
 ## Hardware Licensing
 Copyright © 2026 Ferric Collective <galvanist@ferric-collective.org>
 
